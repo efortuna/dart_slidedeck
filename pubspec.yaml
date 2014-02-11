@@ -1,0 +1,6 @@
+name: slidedeck
+dependencies:
+  browser: any
+  js: any
+dev_dependencies:
+  unittest: any
